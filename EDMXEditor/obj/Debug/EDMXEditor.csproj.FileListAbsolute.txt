@@ -1,0 +1,9 @@
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\bin\Debug\EDMXEditor.exe.config
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\bin\Debug\EDMXEditor.exe
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\bin\Debug\EDMXEditor.pdb
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.csprojAssemblyReference.cache
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.Properties.Resources.resources
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.csproj.GenerateResource.cache
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.exe
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.pdb
+D:\learning\asp\kendo\kdmx\EDMXEditor\EDMXEditor\obj\Debug\EDMXEditor.Form1.resources
